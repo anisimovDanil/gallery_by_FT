@@ -1,0 +1,18 @@
+
+.header-wrapper {
+  margin-top: 35px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  /*padding: 0 20px;*/
+}
+.logo {
+  width: 64px;
+  height: 64px;
+}
+.lamp {
+  width: 20px;
+  height: 20px;
+  mask-image: url('./../imgs/header/lamp.svg');
+  background-color: black;
+}
